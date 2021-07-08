@@ -16,6 +16,7 @@ const Tweetbox = () => {
       avatar:
         "https://media-exp1.licdn.com/dms/image/C4E03AQEeKhquuud0XQ/profile-displayphoto-shrink_400_400/0/1606232517711?e=1631145600&v=beta&t=0HH2eOoBy4C2EBATabngpusrBKPNcmoVxWUCW_9PnKY",
       image: tweetImage,
+      numberOfLikes: 0,
     });
 
     setTweetMessage("");
